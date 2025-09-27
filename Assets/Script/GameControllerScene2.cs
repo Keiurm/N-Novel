@@ -142,7 +142,7 @@ public class GameControllerScene2 : MonoBehaviour
     {
         var scenario = new Scenario();
         scenario.Texts.Add("「お家に帰らなきゃ」");
-        scenario.Texts.Add("「姉は家族の松家に帰った」");
+        scenario.Texts.Add("「姉は家族の待つ家に帰った」");
         SetScenario(scenario);
 
     }
